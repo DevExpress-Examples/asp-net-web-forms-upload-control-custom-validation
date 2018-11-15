@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [ucUploadWithValidator.ascx](./CS/WebSite/ucUploadWithValidator.ascx) (VB: [ucUploadWithValidator.ascx.vb](./VB/WebSite/ucUploadWithValidator.ascx.vb))
+* [ucUploadWithValidator.ascx.cs](./CS/WebSite/ucUploadWithValidator.ascx.cs) (VB: [ucUploadWithValidator.ascx.vb](./VB/WebSite/ucUploadWithValidator.ascx.vb))
+<!-- default file list end -->
 # ASPxUploadControl - How to implement a custom required field / required validation
 
 
